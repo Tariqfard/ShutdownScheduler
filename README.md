@@ -13,12 +13,9 @@ A simple Python app to schedule shutdowns or sleep mode for your computer. It fe
    ```bash
    git clone https://github.com/TariqFard/ShutdownScheduler.git
    cd ShutdownScheduler
+
 2.Install dependencies:
-pip install customtkinter
-Run the app:
-python shutdown_scheduler.py
-
-Requirements
-
-    Python 3.7 or later
-    customtkinter library (install via pip)
+ ```bash
+    pip install customtkinter
+```
+3.Run the app
