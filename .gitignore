@@ -1,0 +1,28 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folders
+env/
+venv/
+
+# PyInstaller build folders
+dist/
+build/
+*.spec
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.exe
