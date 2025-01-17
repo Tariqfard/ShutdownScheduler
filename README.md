@@ -1,6 +1,6 @@
 # Shutdown Scheduler
 
-A simple Python app to schedule shutdowns or sleep mode for your computer. It features a modern dark-themed UI and an easy-to-use interface.
+A simple Python app to schedule shutdowns or sleep mode for windows. It features a modern dark-themed UI and an easy-to-use interface.
 
 ## Features
 - Input time in minutes for shutdown or sleep mode.
